@@ -11,3 +11,4 @@ polling/wsgi.py
 polling/asgi.py
 __init__.py
 lib64
+settings.py
