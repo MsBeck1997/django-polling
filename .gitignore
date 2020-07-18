@@ -1,0 +1,13 @@
+.idea/
+bin
+lib/
+lib64/
+manage.py
+pyvenv.cfg
+share
+.pyc
+__pycache__
+polling/wsgi.py
+polling/asgi.py
+__init__.py
+lib64
